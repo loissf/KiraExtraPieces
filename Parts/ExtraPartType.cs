@@ -17,6 +17,7 @@ namespace KiraExtraPieces.Parts
         PartBolt,
         PartCombustionEngine,
         PartBeam1x6,
+        PartBeamT1x4,
     }
 
     internal static class ExtraPartTypeExtension
