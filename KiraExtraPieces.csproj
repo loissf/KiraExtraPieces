@@ -58,6 +58,7 @@
     <Reference Include="System.Xml" />
     <Reference Include="Unity.TextMeshPro">
       <HintPath>S:\SteamLibrary\steamapps\common\Screw Drivers\Screw Drivers_Data\Managed\Unity.TextMeshPro.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine">
       <HintPath>S:\SteamLibrary\steamapps\common\Screw Drivers\Screw Drivers_Data\Managed\UnityEngine.dll</HintPath>
@@ -77,6 +78,7 @@
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>S:\SteamLibrary\steamapps\common\Screw Drivers\Screw Drivers_Data\Managed\UnityEngine.UI.dll</HintPath>
+      <Private>False</Private>
     </Reference>
   </ItemGroup>
   <ItemGroup>
